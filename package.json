@@ -1,6 +1,6 @@
 {
   "name": "ansi-style",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Colour/style helpers for terminals, with dumb-terminal detection.",
   "type": "module",
   "main": "src/index.js",
